@@ -3,6 +3,7 @@
 Welcome to **Nyrova**, an enterprise-grade healthcare analytics platform. Nyrova integrates a secure React-based clinical dashboard with a FastAPI machine learning backend that implements a **Deep Neural Network (DNN) Disease Risk Predictor** and **SHAP (SHapley Additive exPlanations)** clinical interpretability engine.
 
 This unified workspace merges the predictive model and data pipelines directly with the premium client dashboard.
+Access it here: https://nyrova.chandana-reddy-1701.workers.dev/
 
 ---
 
