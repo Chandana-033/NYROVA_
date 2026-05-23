@@ -1,0 +1,262 @@
+[
+  {
+    "accuracy": 0.8202,
+    "loss": 0.4349,
+    "f1": 0.8432,
+    "auc": 0.891,
+    "precision": 0.739,
+    "recall": 0.9815,
+    "round": 1,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8368,
+        "loss": 0.433,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8222,
+        "loss": 0.4477,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8105,
+        "loss": 0.4678,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8593,
+    "loss": 0.352,
+    "f1": 0.8688,
+    "auc": 0.8931,
+    "precision": 0.8034,
+    "recall": 0.9458,
+    "round": 2,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8598,
+        "loss": 0.3501,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8542,
+        "loss": 0.3737,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8503,
+        "loss": 0.3723,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8611,
+    "loss": 0.3481,
+    "f1": 0.869,
+    "auc": 0.8935,
+    "precision": 0.8114,
+    "recall": 0.9355,
+    "round": 3,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8603,
+        "loss": 0.3449,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8569,
+        "loss": 0.3681,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8549,
+        "loss": 0.3662,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8616,
+    "loss": 0.3455,
+    "f1": 0.8702,
+    "auc": 0.8935,
+    "precision": 0.8081,
+    "recall": 0.9427,
+    "round": 4,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8637,
+        "loss": 0.345,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8503,
+        "loss": 0.3697,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8562,
+        "loss": 0.3658,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8629,
+    "loss": 0.3451,
+    "f1": 0.8711,
+    "auc": 0.894,
+    "precision": 0.8112,
+    "recall": 0.9404,
+    "round": 5,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8681,
+        "loss": 0.3399,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8562,
+        "loss": 0.3694,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8549,
+        "loss": 0.3648,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8618,
+    "loss": 0.3455,
+    "f1": 0.8702,
+    "auc": 0.8936,
+    "precision": 0.8094,
+    "recall": 0.9409,
+    "round": 6,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8686,
+        "loss": 0.3401,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8562,
+        "loss": 0.3675,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8595,
+        "loss": 0.3596,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8642,
+    "loss": 0.347,
+    "f1": 0.872,
+    "auc": 0.8934,
+    "precision": 0.8136,
+    "recall": 0.9395,
+    "round": 7,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8672,
+        "loss": 0.3392,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8523,
+        "loss": 0.3665,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8569,
+        "loss": 0.3649,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8604,
+    "loss": 0.3482,
+    "f1": 0.8682,
+    "auc": 0.8935,
+    "precision": 0.8114,
+    "recall": 0.9337,
+    "round": 8,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8662,
+        "loss": 0.3378,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8497,
+        "loss": 0.3717,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8549,
+        "loss": 0.3651,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8627,
+    "loss": 0.3473,
+    "f1": 0.871,
+    "auc": 0.8924,
+    "precision": 0.8102,
+    "recall": 0.9418,
+    "round": 9,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8681,
+        "loss": 0.3435,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8575,
+        "loss": 0.3699,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8595,
+        "loss": 0.3617,
+        "samples": 6120
+      }
+    }
+  },
+  {
+    "accuracy": 0.8624,
+    "loss": 0.3476,
+    "f1": 0.8707,
+    "auc": 0.8923,
+    "precision": 0.8106,
+    "recall": 0.9404,
+    "round": 10,
+    "hospital_metrics": {
+      "Hospital A": {
+        "accuracy": 0.8696,
+        "loss": 0.3403,
+        "samples": 8160
+      },
+      "Hospital B": {
+        "accuracy": 0.8529,
+        "loss": 0.3704,
+        "samples": 6120
+      },
+      "Hospital C": {
+        "accuracy": 0.8569,
+        "loss": 0.3641,
+        "samples": 6120
+      }
+    }
+  }
+]
